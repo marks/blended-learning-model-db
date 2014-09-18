@@ -28,6 +28,7 @@ You can run the app locally as follows
 3. Start the webserver
 
         cd blended-learning-model-db
+        bundle install
         foreman start
 
 4. In your browser, visit ``http://localhost:5000`` to see it running.
